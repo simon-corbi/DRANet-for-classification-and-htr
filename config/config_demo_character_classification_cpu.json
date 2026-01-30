@@ -1,0 +1,16 @@
+{
+	"train_data":
+	{
+		"demo": "./dagecc/debug/train",
+		"demo_2": "./dagecc/debug/train"
+	},
+	"val_data":
+	{
+		"demo": "./dagecc/debug/val"
+	},
+	"test_data":
+	{
+		"demo": "./dagecc/debug/test"
+	},
+  "charset_file": "./data/charset_digits_competition_task2.txt"
+}

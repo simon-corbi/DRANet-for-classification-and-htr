@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/venv/
+/models_train/
+/src/train/wandb/
+/__pycache__/
+*.pyc
+.idea/
+*.pt
+src/train/domain_adaptation/wandb/
+src/train/domain_adaptation/checkpoint/
+
+
+
+

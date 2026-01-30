@@ -1,0 +1,102 @@
+{
+	"dbs":
+	{
+		"read_2018_general":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		},		
+		"read_2018_30866":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		},
+		"read_2018_30882":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		},
+		"read_2018_30893":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		},
+		"read_2018_35013":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		},
+		"read_2018_35015":
+		{
+			"train":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			},
+			"test":
+			{
+				"img_dir": "../../../data/read2018/demo_data/img/",
+				"extension_img": "jpg"
+			}		
+		}
+	},
+	"charset_files": 
+	{
+		"read_2018": "../../../data/read2018/charset_read_2018.txt"
+	},
+	"all_labels_files":
+	{
+		"read_2018_general": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_train_30866": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_train_30882": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_train_30893": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_train_35013": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_train_35015": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_test_30866": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_test_30882": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_test_30893": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_test_35013": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2018_test_35015": "../../../data/read2018/demo_data/labels_demo.json"
+	},
+    "dir_wandb": "def_if_relevant"
+}

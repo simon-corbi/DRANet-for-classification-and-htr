@@ -1,0 +1,36 @@
+{
+	"train_data":
+	{
+		"read_2018":
+		{
+			"img_dir": "../../../data/read2018/demo_data/img/",
+			"extension_img": "jpg"
+		}		
+	},
+	"val_data":
+	{
+		"read_2018":
+		{
+			"img_dir": "../../../data/read2018/demo_data/img/",
+			"extension_img": "jpg"
+		}	
+	},
+	"test_data":
+	{
+		"read_2018":
+		{
+			"img_dir": "../../../data/read2018/demo_data/img/",
+			"extension_img": "jpg"
+		}	
+	},	
+	"charset_files": 
+	{
+		"read_2016": "../../../data/read2018/charset_read_2018.txt"
+	},
+	"all_labels_files":
+	{
+		"read_2016_train": "../../../data/read2018/demo_data/labels_demo.json",
+		"read_2016_test": "../../../data/read2018/demo_data/labels_demo.json"
+	},
+    "dir_wandb": "use_if_relevant"
+}

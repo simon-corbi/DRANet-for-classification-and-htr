@@ -1,0 +1,29 @@
+{
+	"dbs":
+	{
+		"source":
+		{
+			"emnit_digits":
+			{
+				"train": "./data/EMNIST/digits/train",
+				"test": "./data/EMNIST/digits/test"
+			},
+			"emnist_letter":
+			{
+				"train": "./data/EMNIST/letters/train",
+				"test": "./data/EMNIST/letters/test"
+			},
+			"synthesis":
+			{
+				"train": "./data/synthetic_v9_brightness_n2000/train",
+				"test": "./data/synthetic_v9_brightness_n2000/test"
+			}
+		},		
+		"target":
+		{
+			"train": "./data/DAGECC/train",
+			"test": "./data/DAGECC/test"
+		}	
+	},
+	"charset_file": "./data/charset_digits_competition_task2.txt"
+}
