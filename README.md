@@ -24,18 +24,17 @@ By aligning feature distributions between source and target domains, the model g
 
 If you find this work useful, please cite our paper:
 
-    Reference article TBA
-    ```
-    @misc{TBA,
-      title={Domain Adaptation Based Pipeline for Character Classification and Handwritten Text Recognition}, 
-      author={TBA},
-      year={TBA},
-      eprint={TBA},
-      archivePrefix={TBA},
-      primaryClass={TBA},
-      url={TBA}, 
-    }
-    ```
+```    
+@article{imbert2026domain, 
+    title={Domain Adaptation Based Pipeline for Character Classification and Handwritten Text Recognition}, 
+    author={Imbert, Florent and Corbill{\'e}, Simon and Han, Hui and Smith, Elisa H. Barney}, 
+    journal={International Journal on Document Analysis and Recognition (IJDAR)}, 
+    year={2026}, 
+    issn={1433-2825}, 
+    doi={10.1007/s10032-026-00575-9}, 
+    url={https://doi.org/10.1007/s10032-026-00575-9} 
+}
+```    
 
 
 ## Installation
